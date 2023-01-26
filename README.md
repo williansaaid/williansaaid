@@ -6,7 +6,7 @@
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🌱 I’m currently learning **Typescript, Next.js and Firebase**
+- 🌱 I’m currently learning **Typescript, Next.js and React Native**
 
 - 📫 How to reach me **williansaaid@hotmail.com**
 
