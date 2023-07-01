@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js and React Native**
 
-- 📫 Take a look to my <a href="https://williansaaid.com/">portfolio<a/>.
+<h3 align="center">Take a look at my <a href="https://williansaaid.com/" target="_blank">portfolio<a/></h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/williansaaid/](https://www.linkedin.com/in/williansaaid/)
 
